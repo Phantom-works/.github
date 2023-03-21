@@ -1,6 +1,6 @@
 # GameAdviser
 
-![](https://media.tenor.com/fzAQ_TYtK-kAAAAC/kirbo.gif.gif)
+![GIF Broke :(](https://media.tenor.com/fzAQ_TYtK-kAAAAC/kirbo.gif.gif)
 
 ## About me
 ***
