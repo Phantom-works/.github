@@ -4,7 +4,7 @@
 
 ## About me
 ***
-My name is [Bram Verkuijlen](https://github.com/BramVerkuijlen). I'm currently in my third semester of software engeneering and a student of [Fontys ICT Eindhoven](https://fontys.nl/Studeren/Opleidingen/HBO-ICT.htm) . 
+My name is [Bram Verkuijlen](https://github.com/BramVerkuijlen). I'm currently in my third semester of software engineering and a student of [Fontys ICT Eindhoven](https://fontys.nl/Studeren/Opleidingen/HBO-ICT.htm) . 
 
 
 ## About the project
