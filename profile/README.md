@@ -1,4 +1,5 @@
 # GameAdviser
+<sub>This project was made as a school project, find my portfolio on the project [here](https://github.com/BramVerkuijlen/Portfolio-S3)</sub>
 
 ![GIF Broke :(](https://media.tenor.com/fzAQ_TYtK-kAAAAC/kirbo.gif)
 
@@ -15,4 +16,8 @@ My project is to create a space where people can be recommended games based on t
 ***
 - [LukasJansen100](https://github.com/LukasJansen100/Portfolio-S3)
 - This project utilized the ChatGPT language model developed by [OpenAI](https://openai.com/)
+
+
+
+
 
