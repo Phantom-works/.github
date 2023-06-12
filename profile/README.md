@@ -14,7 +14,7 @@ My project is to create a space where people can be recommended games based on t
 
 ## Special credits
 ***
-- [LukasJansen100](https://github.com/LukasJansen100/Portfolio-S3)
+- This Documentation took inspiration from [LukasJansen100](https://github.com/LukasJansen100/Portfolio-S3).
 - This project utilized the ChatGPT language model developed by [OpenAI](https://openai.com/)
 
 
